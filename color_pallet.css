@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Humaro®-1-hex { color: #D90B1C; }
+.Humaro®-2-hex { color: #D90B31; }
+.Humaro®-3-hex { color: #A67458; }
+.Humaro®-4-hex { color: #D90404; }
+.Humaro®-5-hex { color: #D9D9D9; }
+
+/* Color Theme Swatches in RGBA */
+.Humaro®-1-rgba { color: rgba(216, 10, 27, 1); }
+.Humaro®-2-rgba { color: rgba(216, 10, 48, 1); }
+.Humaro®-3-rgba { color: rgba(165, 116, 87, 1); }
+.Humaro®-4-rgba { color: rgba(216, 4, 4, 1); }
+.Humaro®-5-rgba { color: rgba(216, 216, 216, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Humaro®-1-hsla { color: hsla(354, 90, 44, 1); }
+.Humaro®-2-hsla { color: hsla(348, 90, 44, 1); }
+.Humaro®-3-hsla { color: hsla(22, 30, 49, 1); }
+.Humaro®-4-hsla { color: hsla(0, 96, 43, 1); }
+.Humaro®-5-hsla { color: hsla(0, 0, 85, 1); }
