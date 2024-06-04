@@ -1,0 +1,2 @@
+# syntech
+site for syntech
